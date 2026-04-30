@@ -1,0 +1,5 @@
+BOT_TOKEN = "8664072550:AAGgqtDRuneQCuRKTqKFe_d3ePTAP15pE1E"
+
+ADMIN_IDS: list[int] = []
+
+BOT_NAME = "📚 BookBot"
